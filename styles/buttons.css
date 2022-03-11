@@ -1,0 +1,32 @@
+.btn-blue {
+  color: white;
+  background-color: blue;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bolder;
+  border: 1px solid blue;
+  transition:  1s;
+}
+
+.btn-blue:hover {
+  background-color: white;
+  color: blue;
+  transition: 1s;
+}
+
+.btn.btn-dark {
+ margin: 10px auto;
+ color: whitesmoke;
+}
+
+.btn-outline-success:hover {
+    color: #ffffff;
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.btn-outline-success {
+    border-color: #000000;
+    color: black;
+}
+
